@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.3"
+  },
+  "name": "naufa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
